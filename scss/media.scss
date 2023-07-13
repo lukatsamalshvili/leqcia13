@@ -1,0 +1,30 @@
+@media (max-width: 1385px) {
+    footer {
+        width: 1500px;
+    }
+}
+@media (max-width: 557px) {
+    header {
+       display: none;
+    }
+    .itag{
+        width: 50px;
+        height: 50px;
+        margin-left: 137px;
+        margin-top: 21px;
+        .iitag{
+            width:50px ;
+            height: 50px;
+        }
+    }
+}
+@media (max-width: 335px) {
+    footer {
+        width: 1440px;
+    }
+}
+@media (min-width: 557px) {
+    .itag{
+       display: none;
+    }
+}

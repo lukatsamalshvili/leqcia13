@@ -1,0 +1,18 @@
+@mixin mytext {
+    display: inline-block;
+     width: 120px;
+     height: 28px;
+     font-size: 24px;
+     font-weight: 700;
+     line-height: 28px;
+     margin-left: 137px;
+     margin-top: 40px;
+     
+}
+@mixin photo{ 
+    width: 362px;
+    height: 186px;
+    margin-left: 1px;
+    
+
+}
